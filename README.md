@@ -1,6 +1,6 @@
-# treasure-hunter-infra
+# infra
 
-Hạ tầng chạy local cho Treasure Hunter bằng Docker. Hiện có:
+Hạ tầng chạy local cho dự án game bằng Docker. Hiện có:
 
 | Service  | Địa chỉ                 | Dùng để                                 |
 |----------|-------------------------|-----------------------------------------|

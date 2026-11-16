@@ -1,11 +1,11 @@
-# Hạ tầng chạy local cho Treasure Hunter.
+# Hạ tầng chạy local cho dự án game.
 #   Bật:  docker compose up -d
 #   Tắt:  docker compose down        (thêm -v để xoá luôn dữ liệu)
 #
 # Các service Spring chạy trên máy thật kết nối Kafka qua: localhost:9092
 # Kafka UI (xem topic, message trên trình duyệt):          http://localhost:8090
 
-name: treasure-hunter
+name: game
 
 services:
   kafka:
